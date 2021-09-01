@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  body {
+    font-family: 'Ubuntu';
+    font-size: x-large;
+    background-color: rgb(202, 202, 202);
+  }
+  
+  h3 {
+    font-weight: 500;
+  }
+  
+  .container {
+    margin: 5vh auto;
+    width: 100%;
+    text-align: center;
+  }
+  
+  #time {
+    padding-top: 10px;
+    color: rgb(161, 0, 67);
+  }
+  
+  #userInput {
+    color: rgb(161, 0, 67);
+  }
+  
